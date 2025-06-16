@@ -19,7 +19,7 @@
   <!-- 자기소개 -->
   <div align="center">
     <p>🚀 <strong>하루하루 코드 한 줄이라도 꾸준히!</strong></p>
-    <p>📚 <strong>재사용 가능한 더 좋은 코드를 위한 리팩토링!</strong></p>
+    <p>📚 <strong>더 나은 코드 재사용성을 위한 지속적인 리팩토링!</strong></p>
     <p>🎨 <strong>사용자 경험(UX)과 사용자 인터페이스(UI)를 최우선으로!</strong></p>
     <p>✨ <strong>최신 기술에 관심이 많고 소통을 좋아하는 긍정적 마음가짐의 프론트엔드 개발자 유대현입니다.</strong></p>
   </div>
