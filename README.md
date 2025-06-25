@@ -53,7 +53,7 @@
   ## 📊 GitHub Analytics
   
   <p align="center" style="margin: 30px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yooodh&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6b9d&currStreakLabel=58a6ff&background=00000000" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.2);" />
+    <img src="https://streak-stats.demolab.com/?user=Yooodh&theme=transparent&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff6b9d&currStreakLabel=58a6ff&background=00000000" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.2);" />
   </p>
 
    <!-- 스텟 -->
