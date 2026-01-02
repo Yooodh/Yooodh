@@ -56,11 +56,11 @@
   </p>
 
    <!-- 스텟 -->
-  <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&border_radius=12&layout=compact&theme=transparent&langs_count=8" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.3); margin: 10px;" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&show_icons=true&hide_border=true&border_radius=12&theme=transparent&ring_color=58a6ff" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.3); margin: 10px;" />
-  </p>
+<p align="center">
+  <img height="200" src="https://github-readme-stats-phi-five-13.vercel.app/api/top-langs/?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&border_radius=12&layout=compact&theme=transparent&langs_count=8&v=1" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.3); margin: 10px;" />
 
+  <img height="200" src="https://github-readme-stats-phi-five-13.vercel.app/api?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&show_icons=true&hide_border=true&border_radius=12&theme=transparent&ring_color=58a6ff&v=1" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(88, 166, 255, 0.3); margin: 10px;" />
+</p>
 
   <!-- 그래프 -->
   <div style="display: flex; justify-content: center; align-items: center; margin: 30px 0;">
