@@ -70,7 +70,9 @@
       <img height="200" src="https://github-readme-stats-phi-five-13.vercel.app/api/top-langs/?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&hide_border=true&border_radius=12&layout=compact&theme=transparent&langs_count=8" />
     </picture>
     <picture>
+	  <!-- 다크 모드 -->
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-phi-five-13.vercel.app/api?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&show_icons=true&hide_border=true&border_radius=12&theme=transparent">
+	  <!-- 라이트 모드 -->
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-phi-five-13.vercel.app/api?username=Yooodh&bg_color=00000000&title_color=2b6cb0&text_color=000000&icon_color=2b6cb0&show_icons=true&hide_border=true&border_radius=12&theme=transparent">
       <img height="200" src="https://github-readme-stats-phi-five-13.vercel.app/api?username=Yooodh&bg_color=00000000&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&show_icons=true&hide_border=true&border_radius=12&theme=transparent" />
     </picture>
@@ -78,19 +80,25 @@
 
   <!-- 그래프 -->
   <p align="center">
-  	 <picture>
-  			<!-- 다크 모드 -->
-  			<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=0d1117&color=ffffff&line=58a6ff&title_color=58a6ff&point=f472b6&area_color=667eea&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
-  			<!-- 라이트 모드 -->
-  			<source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=ffffff&color=000000&line=58a6ff&title_color=2b6cb0&point=f472b6&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
-  	    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=30,667eea,764ba2&color=ffffff&line=58a6ff&point=f472b6&area_color=667eea&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=10" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);" />
+  	<picture>
+  	  <!-- 다크 모드 -->
+  	  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=0d1117&color=ffffff&line=58a6ff&title_color=58a6ff&point=f472b6&area_color=667eea&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
+  	  <!-- 라이트 모드 -->
+  	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=ffffff&color=000000&line=58a6ff&title_color=2b6cb0&point=f472b6&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
+  	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=30,667eea,764ba2&color=ffffff&line=58a6ff&point=f472b6&area_color=667eea&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=10" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);" />
    </picture>
   </p>
 
   <!-- 트로피 -->
-   <div>
-	  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-	</div>
+  <div align="center" style="margin: 20px 0;">
+    <picture>
+	  <!-- 다크 모드 -->
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1">
+	  <!-- 라이트 모드 -->
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1">
+      <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+    </picture>
+  </div>
 
   <br/><br/>
   
