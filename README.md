@@ -88,9 +88,9 @@
   </p>
 
   <!-- 트로피 -->
-  <div style="margin: 30px 0;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-  </div>
+   <div>
+	  <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
+	</div>
 
   <br/><br/>
   
