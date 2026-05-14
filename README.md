@@ -93,9 +93,9 @@
   <div align="center" style="margin: 20px 0;">
     <picture>
 	  <!-- 다크 모드 -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1">
+      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1">
 	  <!-- 라이트 모드 -->
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1">
+      <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1">
       <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
     </picture>
   </div>
