@@ -78,27 +78,29 @@
     </picture>
   </p>
 
-  <!-- 그래프 -->
-  <p align="center">
-  	<picture>
-  	  <!-- 다크 모드 -->
-  	  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=0d1117&color=ffffff&line=58a6ff&title_color=58a6ff&point=f472b6&area_color=667eea&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
-  	  <!-- 라이트 모드 -->
-  	  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=ffffff&color=000000&line=58a6ff&title_color=2b6cb0&point=f472b6&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
-  	  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yooodh&bg_color=30,667eea,764ba2&color=ffffff&line=58a6ff&point=f472b6&area_color=667eea&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=10" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(102, 126, 234, 0.3);" />
-   </picture>
-  </p>
+<!-- 그래프 -->
+<p align="center">
+  <picture>
+    <!-- 다크 모드 -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://fabianocouto-activity-graph.vercel.app/graph/?username=Yooodh&bg_color=0d1117&color=ffffff&line=58a6ff&title_color=58a6ff&point=f472b6&area_color=667eea&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
+    <!-- 라이트 모드 -->
+    <source media="(prefers-color-scheme: light)" srcset="https://fabianocouto-activity-graph.vercel.app/graph/?username=Yooodh&bg_color=ffffff&color=000000&line=58a6ff&title_color=2b6cb0&point=f472b6&area_color=1f6feb&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=10">
+    <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Yooodh&bg_color=1a1b27&color=ffffff&line=58a6ff&point=f472b6&area_color=667eea&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&radius=10" style="border-radius: 15px;" />
+  </picture>
+</p>
+
+
 
   <!-- 트로피 -->
   <div align="center" style="margin: 20px 0;">
-    <picture>
+    <!-- <picture> -->
 	  <!-- 다크 모드 -->
-      <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1">
+      <!-- <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"> -->
 	  <!-- 라이트 모드 -->
-      <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1">
-      <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" />
-    </picture>
-  </div>
+      <!-- <source media="(prefers-color-scheme: light)" srcset="https://trophy.benkou.dev/?username=Yooodh&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1"> -->
+      <!-- <img src="https://github-profile-trophy-kannan.vercel.app/?username=Yooodh&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" /> -->
+    <!-- </picture> -->
+  <!-- </div> -->
 
   <br/><br/>
   
